@@ -7,8 +7,7 @@ export default function Main() {
     <Container>
       <Sidebar />
 
-      <h1>Teste</h1>
-
+      <h1>Main</h1>
     </Container>
   )
 }
